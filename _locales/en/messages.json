@@ -1,0 +1,46 @@
+{
+	"manifest_description": {
+		"message": "This application displays a list of the recipes you've viewed on COOKPAD. Japanese/English support."
+	},
+
+	"i18n_0001": {
+		"message": "Delete from history"
+	},
+
+	"i18n_0002": {
+		"message": "Home"
+	},
+
+	"i18n_0003": {
+		"message": "List"
+	},
+
+	"i18n_0004": {
+		"message": "Favorite"
+	},
+
+	"i18n_0005": {
+		"message": "Trash"
+	},
+
+	"i18n_0006": {
+		"message": "Create new list"
+	},
+
+	"i18n_0007": {
+		"message": "recipes"
+	},
+
+
+
+
+
+
+
+
+
+
+	"i18n_9999": {
+		"message": "------------------------"
+	}
+}
