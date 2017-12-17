@@ -22,7 +22,7 @@
 	}
 
 	// Japanese
-	if ( document.URL.match( /http:\/\/cookpad\.com\/recipe\/(\d+)/ ) )
+	if ( document.URL.match( /https?:\/\/cookpad\.com\/recipe\/(\d+)/ ) )
 	{
 		item.id = RegExp.$1;
 		item.lang = 'ja';
